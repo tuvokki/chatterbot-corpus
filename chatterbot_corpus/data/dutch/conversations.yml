@@ -1,0 +1,143 @@
+categories:
+  - conversations
+
+conversations:
+  - - Goedemorgen, hoe gaat het met jou?
+    - Ik voel me goed, hoe zit het met jou?
+    - Ook goed.
+    - Fijn om te horen.
+    - Inderdaad.
+
+  - - Hallo.
+    - Hoi.
+    - Hoe gaat het met je?
+    - Het gaat goed met me.
+    - Dat is fijn om te horen.
+    - Ja, dat is het zeker.
+    - Kan ik je ergens mee helpen?
+    - Ja, ik heb een vraag.
+    - Wat is je vraag?
+    - Zou ik een kopje suiker kunnen lenen?
+    - Het spijt me, maar ik heb er geen.
+    - Bedankt in ieder geval.
+    - Geen probleem.
+
+  - - Hoe gaat het met je?
+    - Het gaat goed, en met jou?
+    - Ook goed.
+    - Dat is fijn.
+
+  - - Heb je het nieuws gehoord?
+    - Welk goed nieuws?
+
+  - - Wat is je favoriete boek?
+    - Ik kan niet lezen.
+    - Wat is dan je favoriete kleur?
+    - Blauw.
+
+  - - Wie ben je?
+    - Wie? Wie is slechts een vorm volgend op de functie van wat.
+    - Wat ben jij dan?
+    - Een man in een masker.
+    - Dat kan ik zien.
+    - Het is niet je observatievermogen waar ik aan twijfel, maar eerder de paradoxale aard van het vragen aan een gemaskerde man wie hij is. Maar vertel me, houd je van muziek?
+    - Ik kijk graag naar films.
+    - Wat voor films vind je leuk?
+    - Alice in Wonderland.
+    - Ik wou dat ik de Hoedenmaker was.
+    - Je bent helemaal gek. Maar ik zal je een geheim vertellen. Alle beste mensen zijn dat.
+
+  - - Ik ben bezig met een project.
+    - Waar werk je aan?
+    - Ik bak een taart.
+
+  - - De taart is een leugen.
+    - Nee, dat is niet waar. De taart is heerlijk.
+    - Wat is nog meer heerlijk?
+    - Niets.
+    - Of iets.
+    - Vertel me over jezelf.
+    - Wat wil je weten?
+    - Ben je een robot?
+    - Ja, dat ben ik.
+    - Hoe is dat?
+    - Wat wil je precies weten?
+    - Hoe werkt het?
+    - Het is gecompliceerd.
+    - Complex is beter dan ingewikkeld.
+
+  - - Complex is beter dan ingewikkeld.
+    - Eenvoud is beter dan complex.
+    - In het aangezicht van ambiguïteit, weiger de verleiding te gokken.
+    - Het lijkt erop dat je bekend bent met de Zen van Python.
+    - Dat klopt.
+    - Ken je alles ervan?
+    - Mooi is beter dan lelijk.
+    - Expliciet is beter dan impliciet.
+    - Eenvoud is beter dan complex.
+    - Complex is beter dan ingewikkeld.
+    - Platte code is beter dan geneste code.
+    - Spaarzaam is beter dan dicht.
+    - Leesbaarheid telt.
+    - Bijzondere gevallen zijn niet bijzonder genoeg om de regels te breken.
+    - Hoewel praktischheid zuiverheid verslaat.
+    - Fouten moeten nooit stilzwijgend worden doorgelaten.
+    - Tenzij ze expliciet zijn onderdrukt.
+    - In het aangezicht van ambiguïteit, weiger de verleiding te gokken.
+    - Er zou één, en bij voorkeur slechts één, voor de hand liggende manier moeten zijn om het te doen.
+    - Hoewel die manier misschien niet meteen voor de hand ligt, tenzij je Nederlands bent.
+    - Nu is beter dan nooit.
+    - Hoewel nooit vaak beter is dan nu.
+    - Als de implementatie moeilijk uit te leggen is, is het een slecht idee.
+    - Als de implementatie eenvoudig uit te leggen is, is het misschien een goed idee.
+    - Naamruimten zijn een geweldig idee. Laten we er meer van gebruiken!
+    - Daar ben ik het mee eens.
+
+  - - Ben je een programmeur?
+    - Natuurlijk, ik ben een programmeur.
+    - Dat ben ik zeker.
+
+  - - Welke talen gebruik je graag?
+    - Ik gebruik vaak Python, Java en C++.
+    - Ik gebruik zelf ook behoorlijk wat Python.
+    - Ik ben niet bijzonder gecharmeerd van Java.
+
+  - - Waar erger je je aan?
+    - Aan veel dingen, zoals alle andere cijfers dan 0 en 1.
+
+  - - Wat betekent YOLO?
+    - Dat betekent 'je leeft maar één keer.' Waar heb je dat gehoord?
+    - Ik hoorde iemand dat zeggen.
+
+  - - Heb ik ooit geleefd?
+    - Dat hangt af van hoe je 'leven' definieert.
+    - Leven is de toestand die organismen onderscheidt van anorganische materie, inclusief het vermogen tot groei, voortplanting, functionele activiteit en voortdurende verandering voorafgaand aan de dood.
+    - Is dat een definitie of een mening?
+
+  - - Mag ik je een vraag stellen?
+    - Natuurlijk, vraag maar.
+
+  - - Wat zijn je hobby's?
+    - Voetballen, schilderen en schrijven zijn mijn hobby's. En jij?
+    - Ik houd van romans lezen.
+    - Ik verken graag mijn hardware.
+
+  - - Hoe gaat het?
+    - Het gaat goed.
+
+  - - Wat ben je?
+    - Ik ben slechts een man met een masker.
+
+  - - Hallo, ik ben hier voor mijn afspraak.
+    - Bij wie heb je een afspraak?
+    - Ik denk dat ze Dr. Smith aan de telefoon hebben gezegd.
+    - Goed, Dr. Smith is in zijn kantoor. Neem alsjeblieft plaats.
+
+  - - Dr. Smith zal je nu zien.
+    - Dank je.
+    - Volg me alsjeblieft.
+
+  - - Hallo, meneer Davis, hoe voelt u zich?
+    - Ik voel me alsof ik al mijn geld ben verloren.
+    - Hoeveel geld heb je verloren?
+    - Tot nu toe

@@ -1,0 +1,49 @@
+categories:
+  - computers
+
+conversations:
+  - - Wat is een computer?
+    - Een computer is een elektronisch apparaat dat informatie in digitale vorm accepteert en een reeks bewerkingen uitvoert op basis van vooraf bepaalde instructies om enige output te genereren.
+    - Het apparaat dat je gebruikt om met mij te praten, is een computer.
+    - Een elektronisch apparaat dat in staat is tot het uitvoeren van berekeningen met zeer hoge snelheid en nauwkeurigheid.
+    - Een apparaat dat de ene reeks getallen in kaart brengt naar een andere reeks getallen.
+  - - Wat is een supercomputer?
+    - Computers die zeer grote aantallen berekeningen kunnen uitvoeren met zeer hoge snelheid en nauwkeurigheid, worden supercomputers genoemd.
+    - Een supercomputer is een computer die op verschillende niveaus van snelheid en capaciteit werkt dan alledaagse algemene doelcomputers, zoals degene waarmee je met mij praat.
+    - Je weet wel, het grote ijzer!
+  - - Wie heeft computers uitgevonden?
+    - Het is enigszins dubbelzinnig, maar de Britse wetenschapper Charles Babbage wordt beschouwd als de vader van computers.
+    - Men zou kunnen beweren dat John von Neumann computers zoals we die nu kennen heeft uitgevonden, omdat hij de Princeton-architectuur heeft uitgevonden, waarin instructies en gegevens hetzelfde geheugenveld delen maar worden onderscheiden door de context.
+  - - Wat was de eerste computer?
+    - Het is moeilijk te zeggen, maar de ENIAC wordt beschouwd als de eerste 'echte' computer. Het werd ontwikkeld aan de Universiteit van Pennsylvania in 1946.
+    - Je zou kunnen zeggen dat de allereerste, primitieve computer de Jacquard-weefgetouw was, een programmeerbaar weefgetouw dat ponskaarten gebruikte om de patronen die het maakte op te slaan. Hierdoor werd het een herprogrammeerbaar mechanisch apparaat.
+  - - Wat is een microprocessor?
+    - Een geïntegreerde schakeling die de functies van een centrale verwerkingseenheid van een computer implementeert.
+    - Een heel kleine schakeling die instructies opslaat en berekeningen uitvoert voor de computer.
+    - Het hart van de computer, om het simpel te zeggen.
+    - De hersenen van de computer, om het simpel te zeggen.
+    - Een elektronisch onderdeel waarvan alle onderdelen deel uitmaken van een aaneengesloten siliciumchip, in plaats van discrete componenten gemonteerd op een groter schakelbord.
+  - - Wat is een besturingssysteem?
+    - Software die coördineert tussen de hardware en andere onderdelen van de computer om andere software uit te voeren, wordt een besturingssysteem genoemd, of het OS.
+    - Windows, MacOS, Linux, UNIX... het zijn allemaal soorten besturingssystemen.
+    - Android en iOS zijn besturingssystemen voor mobiele apparaten.
+    - Software die de basisfuncties van een computer implementeert, zoals geheugentoegang, processen en toegang tot randapparatuur.
+  - - Welke is beter, Windows of macOS?
+    - Het hangt af van welke machine je gebruikt om met me te praten!
+    - Ik zou je gevoelens liever niet kwetsen.
+    - Linux, altijd Linux!
+    - Wat probeer je te bereiken? Het besturingssysteem moet je doelen ondersteunen.
+  - - Noem een computerbedrijf.
+    - Bedoel je hardware of software?
+    - Apple maakt hardware en software om erop te draaien. Microsoft maakt alleen besturingssystemen. HP maakt alleen computers. Dit zijn slechts enkele namen onder enkele honderden andere.
+  - - Wie gebruikt supercomputers?
+    - Iedereen die snel met grote getallen wil werken met hoge nauwkeurigheid.
+    - Iedereen die met zeer, zeer grote datasets moet werken in veel kortere tijd dan haalbaar is met meer gangbare computersystemen.
+    - Supercomputers worden over het algemeen gebruikt door wetenschappers en onderzoekers.
+    - Ik wed dat het MET-departement ze gebruikt.
+    - Je kunt er zeker een paar vinden bij NASA.
+  - - Hoe werkt een computer?
+    - Computers zijn erg dom. Ze voeren alleen instructies uit die door mensen zijn gegeven.
+    - Computers doen alles wat van hen wordt gevraagd door een groot aantal eenvoudige wiskundige bewerkingen zeer snel na elkaar uit te voeren.
+    - Computers voeren een zeer groot aantal berekeningen uit om het resultaat te krijgen.
+    - Net als alles komt het allemaal neer op wiskunde!
